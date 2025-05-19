@@ -39,7 +39,9 @@
             border: 3px solid rgb(75, 44, 87);}
 
          caption{
-            font-size: 20px;}
+            font-size: 20px;
+            border: 3px solid rgb(75, 44, 87);
+            background-color: rgb(206, 199, 219)}
 
          td{
             font-size: 20px;
